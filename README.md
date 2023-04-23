@@ -24,5 +24,14 @@ After node modules are installed, write the npm start run command to start the a
 Visit localhost:3000 to use the app.
 
 # Checklist of implemented features:
- [x] #739
-
+ -[x] User can create an account and login using email and password.
+ -[x] User has to find words from given jumbled letters.
+ -[x] User has been provided 5 hints.
+ -[x] User can monitor the time he is needing.
+ -[x] All progress/user data is stored and retrieved when required.
+ -[x] Admin dashboard shows a leaderboard of all users and also some bar graphs for analysis.
+ 
+ # Addtional Information:
+ I have used ReactJS for frontend and Firebase for backend.
+ I have deployed the web app using firebase and link can be  found in description
+ 
