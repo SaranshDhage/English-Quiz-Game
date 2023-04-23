@@ -5,7 +5,7 @@ export default function Footer() {
           <span className="font-semibold w-full text-lg text-center tracking-tight">
             Made by
             <a
-              href="https://github.com/HANS-2002"
+              href="https://github.com/SaranshDhage"
               target="_blank"
               rel="noreferrer"
               className="text-lime-400"
