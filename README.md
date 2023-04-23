@@ -24,11 +24,5 @@ After node modules are installed, write the npm start run command to start the a
 Visit localhost:3000 to use the app.
 
 # Checklist of implemented features:
- [ ] User can create an account and login using email and password.
- User has to find the clues and it is guaranteed that there are atleast 5 clues in the whole puzzle.
- User can play and complete a sudoku game.
- User can reach more than 2 dead-ends in a game.
- The always has one unique solution.
- All progress/user data is stored and retrieved when required.
- On refreshing or changing the browser, user progress is restored.
- Admin dashboard is working and shows all the required data.
+ [x] #739
+
